@@ -1,11 +1,12 @@
 # Shorks
-A Minecraft mod that adds the IKEA BLÅHAJ toy shark to minecraft, dyeable in any color!
+A Minecraft mod that adds the IKEA BLÅHAJ toy shark to minecraft, dyeable in any color!  
 
 ![Shorks](http://share.evaisa.dev/RYopzZODw.png)
 
 ## Credits
-This mod is partially a forge port of https://github.com/Hibiii/Blahaj
-It is basically written from scratch however and has additional features like the ability to dye shorks in any color.
+This mod is partially a forge port of ![Blahaj](https://github.com/Hibiii/Blahaj)
+It is basically written from scratch however and has additional features like the ability to dye shorks in any color.  
+I have also taken inspiration from the ![Fabric port](https://github.com/DaFuqs/Blahaj)
 
 ## License
 
