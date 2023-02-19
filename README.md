@@ -1,10 +1,14 @@
-# Minecraft Forge 1.19 Modding Tutorials
-- This repository has the code for my tutorials on creating minecraft mods with forge
-- Text tutorials: https://moddingtutorials.org/o18
+# Shorks
+A Minecraft mod that adds the IKEA BLÅHAJ toy shark to minecraft, dyeable in any color!
 
-## Contact
-- For any questions, problems, etc: https://discord.gg/VbZVnRd
+![Shorks](http://share.evaisa.dev/RYopzZODw.png)
 
-## Support Me
-- https://www.patreon.com/LukeGrahamLandry
- 
+## Credits
+This mod is partially a forge port of https://github.com/Hibiii/Blahaj
+It is basically written from scratch however and has additional features like the ability to dye shorks in any color.
+
+## License
+
+This mod is licensed under the ![Unlicense](https://github.com/EvaisaGiac/ShorkMod/blob/main/LICENSE). Feel free to learn from it and incorporate it in your own projects.
+
+The icon of this project is the Blobhaj by Heatherhorns, and is licensed under a Creative Commons Attribution 4.0 International License.
