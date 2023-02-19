@@ -1,0 +1,24 @@
+{
+	"block.shorkmod.blue_shark": "Blåhaj",
+	"block.shorkmod.black_shark": "Svarthaj",
+	"block.shorkmod.blue2_shark": "Mörkblåhaj",
+	"block.shorkmod.brown_shark": "Brunhaj",
+	"block.shorkmod.green_shark": "Grönhaj",
+	"block.shorkmod.gray_shark": "Gråhaj",
+	"block.shorkmod.light_gray_shark": "Ljusgråhaj",
+	"block.shorkmod.cyan_shark": "Cyanhaj",
+	"block.shorkmod.lime_shark": "Klargrönhaj",
+	"block.shorkmod.pink_shark": "Rosahaj",
+	"block.shorkmod.purple_shark": "Lilahaj",
+	"block.shorkmod.red_shark": "Rödhaj",
+	"block.shorkmod.trans_shark": "Transhaj",
+	"block.shorkmod.white_shark": "Vithaj",
+	"block.shorkmod.yellow_shark": "Gulhaj",
+	"block.shorkmod.orange_shark": "Orangehaj",
+	"block.shorkmod.magenta_shark": "Magentahaj",
+
+	"block.shorkmod.blahaj.tooltip": "Truly the most precious creature.",
+
+	"tooltip.shorkmod.owner.craft": "Crafted by %s",
+	"tooltip.shorkmod.owner.rename": "%s of %s"
+}

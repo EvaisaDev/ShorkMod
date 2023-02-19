@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "shorkmod:block/orange_shark",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "shorkmod:block/orange_shark"
+    },
+    "facing=south": {
+      "model": "shorkmod:block/orange_shark",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "shorkmod:block/orange_shark",
+      "y": 270
+    }
+  }
+}

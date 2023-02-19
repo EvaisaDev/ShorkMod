@@ -1,0 +1,6 @@
+{
+	"parent": "shorkmod:block/blue_shark",
+	"textures": {
+		"0": "shorkmod:block/gray_shark"
+	}
+}

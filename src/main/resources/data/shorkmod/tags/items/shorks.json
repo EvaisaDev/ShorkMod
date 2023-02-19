@@ -1,0 +1,22 @@
+{
+    "replace": false,
+    "values": [
+        "shorkmod:black_shark",
+        "shorkmod:blue_shark",
+        "shorkmod:blue2_shark",
+        "shorkmod:brown_shark",
+        "shorkmod:cyan_shark",
+        "shorkmod:gray_shark",
+        "shorkmod:green_shark",
+        "shorkmod:light_gray_shark",
+        "shorkmod:lime_shark",
+        "shorkmod:magenta_shark",
+        "shorkmod:orange_shark",
+        "shorkmod:pink_shark",
+        "shorkmod:purple_shark",
+        "shorkmod:red_shark",
+        "shorkmod:trans_shark",
+        "shorkmod:white_shark",
+        "shorkmod:yellow_shark"
+    ]
+}

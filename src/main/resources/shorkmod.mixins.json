@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "dev.evaisa.shorkmod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+
+  ],
+  "client": [
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
