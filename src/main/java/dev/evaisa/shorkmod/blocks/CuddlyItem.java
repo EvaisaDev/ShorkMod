@@ -21,6 +21,8 @@ import net.minecraft.world.level.block.state.StateDefinition;
 import net.minecraft.world.phys.shapes.CollisionContext;
 import net.minecraft.world.phys.shapes.VoxelShape;
 import net.minecraft.network.chat.Component;
+import net.minecraft.network.chat.TextComponent;
+import net.minecraft.network.chat.TranslatableComponent;
 
 public class CuddlyItem extends BlockItem {
     public static final String OWNER_KEY = "Owner";
@@ -30,7 +32,7 @@ public class CuddlyItem extends BlockItem {
 
     public CuddlyItem(Block block, Properties properties, String subtitle) {
         super(block, properties);
-        this.subtitle = subtitle == null ? null : Component.translatable(subtitle);
+        this.subtitle = subtitle == null ? null : new TranslatableComponent(subtitle);
     }
     
     @Override   
@@ -48,9 +50,9 @@ public class CuddlyItem extends BlockItem {
 				return;
 			}
             if(stack.hasCustomHoverName()) {
-                tooltip.add(Component.translatable("tooltip.shorkmod.owner.rename", stack.getHoverName(), Component.literal(owner)));
+                tooltip.add(new TranslatableComponent("tooltip.shorkmod.owner.rename", stack.getHoverName(), new TextComponent(owner)));
             } else {
-                tooltip.add(Component.translatable("tooltip.shorkmod.owner", Component.literal(owner)));
+                tooltip.add(new TranslatableComponent("tooltip.shorkmod.owner", new TextComponent(owner)));
             }
         }
     }
